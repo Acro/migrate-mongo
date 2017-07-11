@@ -1,6 +1,6 @@
 {
-  "name": "migrate-mongo",
-  "version": "2.2.1",
+  "name": "codemao-migrate-mongo",
+  "version": "2.2.4",
   "description": "A database migration tool for MongoDB in Node",
   "main": "lib/migrate-mongo.js",
   "bin": {
